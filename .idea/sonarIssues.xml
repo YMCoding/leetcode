@@ -3,6 +3,31 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/controller/v2/AuctionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/dependecy/vchatservice/VchatAuctionWrapperService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/service/auction/IAuctionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/service/auction/impl/AuctionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/vo/request/auction/AsyncAuctionInfoParam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat-callback/pom.xml">
           <value>
             <set />
