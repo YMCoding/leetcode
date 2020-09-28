@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-api/src/main/java/com/immomo/vchat/callbakc/api/enums/DistributeType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/dao/IVchatMovieDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/dao/impl/VchatMovieDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/enums/SourceEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/service/IVchatMovieService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/service/IVchatSuperSameCityRoomV2Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/service/impl/VchatCallBackServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/service/impl/VchatMovieServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/service/impl/VchataSuperSameCityRoomV2ServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/service/impl/outer/Vchat23RecommendServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/service/impl/outer/VchatMomoNearbyFeedServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/service/impl/outer/VchatMomoNearbyPeopleOtherServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/service/outer/IVchatMomoNearbyFeedService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-service/src/main/java/com/immomo/vchat/callback/utils/key/VchatMovieKeyUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-web/src/main/java/com/immomo/webservice/vchat/config/SpringConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-web/src/main/java/com/immomo/webservice/vchat/dependecy/im/MessageService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-web/src/main/java/com/immomo/webservice/vchat/dependecy/vchatservice/VchatKtvWrapperService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-web/src/main/java/com/immomo/webservice/vchat/service/ktv/impl/KTVService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-web/src/main/java/com/immomo/webservice/vchat/service/room/ISuperRoomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-web/src/main/java/com/immomo/webservice/vchat/service/room/impl/SuperRoomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-web/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-api/src/main/java/com/immomo/moaservice/api/vchat/IVChatService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-api/src/main/java/com/immomo/moaservice/api/vchat/IVChatSquareService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-api/src/main/java/com/immomo/moaservice/api/vchat/beans/Response.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/observer/VchatHeartBeatObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/observer/VchatStatisticInRoomTimeObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/observer/VchatTotalAgeObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/observer/quit/VchatQuitRoomTaskObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/observer/recommend/VchatMovieRecommendObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/observer/recommend/VchatNearBy23RecommendMovieObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/observer/recommend/VchatNearBy23RecommendMovieTestObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/dependence/wrapper/php/VchatPhpReportHeartService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/dependence/wrapper/push/VchatSendPushServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/impl/VChatServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/impl/VChatSquareServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/impl/VchatCommonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/impl/handler/VChatServiceImplHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/impl/momonearby/VchatNearByServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/resources/common/vchat-common.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/BinaryTreeNode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/search/BinSearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
