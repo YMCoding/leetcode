@@ -3,7 +3,22 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/config/SpringConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/contants/ServiceUriConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/controller/v2/AuctionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/dependecy/gift/GiftWrapperService.java">
           <value>
             <set />
           </value>
@@ -34,6 +49,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-callback/vchat-callback-api/src/main/java/com/immomo/vchat/callbakc/api/IVchatCallBackService.java">
           <value>
             <set />
           </value>
@@ -113,6 +133,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-game/vchat-game-api/src/main/java/com/immomo/moaservice/api/vchatgame/bean/response/auction/AuctionPriceInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-game/vchat-game-api/src/main/java/com/immomo/moaservice/api/vchatgame/bean/response/auction/AuctionRelationExpire.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-game/vchat-game-api/src/main/java/com/immomo/moaservice/api/vchatgame/bean/response/auction/AuctionRoomInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-game/vchat-game-api/src/main/java/com/immomo/moaservice/api/vchatgame/bean/response/auction/AuctionUserInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-game/vchat-game-impl/src/main/java/com/immomo/moaservice/vchatgame/service/impl/car/CarTradingServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat-web/src/main/java/com/immomo/webservice/vchat/config/SpringConfig.java">
           <value>
             <set />
@@ -159,6 +204,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-api/src/main/java/com/immomo/moaservice/api/vchat/beans/Response.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-api/src/main/java/com/immomo/moaservice/api/vchat/beans/SimpleRoomVO.java">
           <value>
             <set />
           </value>
@@ -254,6 +304,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/listnode/medium/InsertionSortList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/listnode/medium/RandomListNode.java">
           <value>
             <set />
           </value>
