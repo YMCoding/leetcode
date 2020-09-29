@@ -253,12 +253,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/dependence/wrapper/VchatMediaSdkService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/dependence/wrapper/php/VchatPhpReportHeartService.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/dependence/wrapper/push/VchatSendPushServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/impl/ChatUpdateServiceImpl.java">
           <value>
             <set />
           </value>
@@ -274,6 +284,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/impl/VchatCommonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/impl/VchatMovieServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/impl/common/AsyncOperator.java">
           <value>
             <set />
           </value>
@@ -299,6 +319,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/listnode/medium/CycleListV2.java">
           <value>
             <set />
           </value>
