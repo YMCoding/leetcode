@@ -133,6 +133,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat-core/vchat-core-service/src/test/java/com/immomo/vchat/core/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat-game/vchat-game-api/src/main/java/com/immomo/moaservice/api/vchatgame/bean/response/auction/AuctionPriceInfo.java">
           <value>
             <set />
@@ -253,6 +258,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/dependence/wrapper/VchatFriendsPlayingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/dependence/wrapper/VchatMediaSdkService.java">
           <value>
             <set />
@@ -308,7 +318,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/service/impl/room/VchatJoinRoomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/resources/common/vchat-common.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/vchat-service-impl.iml">
           <value>
             <set />
           </value>
@@ -339,6 +359,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/listnode/medium/ReorderList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/listnode/medium/ReverseListNode3.java">
           <value>
             <set />
           </value>
