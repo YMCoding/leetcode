@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/MomoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Desktop/vchat-web/src/main/java/com/immomo/webservice/vchat/config/SpringConfig.java">
           <value>
             <set />
@@ -323,6 +328,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/java/com/immomo/moaservice/vchat/util/BlackUserFilterUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../momo/vchat/vchat-service-impl/src/main/resources/common/vchat-common.xml">
           <value>
             <set />
@@ -344,6 +354,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/listnode/medium/CycleListV2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/listnode/medium/FlattenList.java">
           <value>
             <set />
           </value>
