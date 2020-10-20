@@ -353,6 +353,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/listnode/hard/ReverseKGroup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/info/ymcode/study/listnode/medium/CycleListV2.java">
           <value>
             <set />
