@@ -2,6 +2,9 @@ package info.ymcode.study.listnode.medium;
 
 import info.ymcode.study.listnode.ListNode;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * 两个链表求和
  */
@@ -23,7 +26,6 @@ public class AddTwoNumbers {
         if (l2 == null) {
             return l1;
         }
-
         //初始进位为0
         int pre = 0;
         //操作数

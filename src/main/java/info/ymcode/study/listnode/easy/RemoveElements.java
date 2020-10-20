@@ -26,6 +26,8 @@ public class RemoveElements {
                 pre.next = cur.next;
             } else {
                 // 把当前节点加到pre节点
+                // pre本身就指向了sentinel对应得链表
+                // pre = cur得意思是，遍历sentinel链表
                 pre = cur;
             }
             cur = cur.next;
